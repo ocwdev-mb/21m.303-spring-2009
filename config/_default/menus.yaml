@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 008bd498-9691-78b4-9a66-ef3dc41c42a3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 278e5108-1828-d62c-ebfa-78efd13ea6bd
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e255b8b5-75d4-f820-3af4-5bb26ff085ce
+  name: Listening and Scores
+  pageRef: /pages/listening-and-scores
+  weight: 30
+- identifier: 61637213-6296-6990-a987-482419eee840
+  name: Assignments
+  pageRef: /video_galleries/assignments
+  weight: 40
+- identifier: 84f8b278-b0a5-3d42-a18d-1dfd8b9c27d0
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 50

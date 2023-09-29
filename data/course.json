@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ]
+  ],
+  "legacy_uid": "3706d59a-9093-5619-81d2-6a78cc95de3f",
+  "instructors": {
+    "content": [
+      "47a1f77b-f2fa-32d3-afc0-948e67b84e82"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a97a443f-cdeb-2a25-32e3-4adf7725e792",
+    "website": "21m-303-writing-in-tonal-forms-i-spring-2009"
+  },
+  "course_title": "Writing in Tonal Forms I",
+  "course_description": "Written and analytic exercises based on 18th- and 19th-century small forms and harmonic practice found in music such as the chorale preludes of Bach; minuets and trios of Haydn, Mozart, and Beethoven; and the songs and character pieces of Schubert and Schumann. Musicianship laboratory is required.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.303",
+  "course_image_thumbnail": {
+    "content": "1216b252-dded-e2ea-6005-b1defc6b3463",
+    "website": "21m-303-writing-in-tonal-forms-i-spring-2009"
+  },
+  "learning_resource_types": [
+    "Demonstration Audio",
+    "Workshop Videos",
+    "Music",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "2393e8b3-9a1f-411a-9ee2-43b1e619289e",
+  "site_short_id": "21m.303-spring-2009",
+  "title": "Course Metadata"
+}
